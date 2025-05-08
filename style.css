@@ -271,7 +271,7 @@ footer {
 
 }
 
-.service-btn[href="myservice.html"]:hover {
+.service-btn[href="http://localhost/wordpress/index.php/myservice1"]:hover {
     background-image: url('images/gd.jpg'); 
     background-size: cover;
     background-position: center;
@@ -280,7 +280,7 @@ footer {
     
 }
 
-.service-btn[href="myservice2.html"]:hover {
+.service-btn[href="http://localhost/wordpress/index.php/myservice1"]:hover {
     background-image: url('images/gm.jpg');
     background-size: cover;
     background-position: center;
@@ -288,7 +288,7 @@ footer {
     font-size: 60px;
 }
 
-.service-btn[href="myservice3.html"]:hover {
+.service-btn[href="http://localhost/wordpress/index.php/myservice1"]:hover {
     background-image: url('images/ux.jpg');
     background-size: cover;
     background-position: center;
@@ -296,7 +296,7 @@ footer {
    
 }
 
-.service-btn[href="myservice4.html"]:hover {
+.service-btn[href="http://localhost/wordpress/index.php/myservice1"]:hover {
     background-image: url('images/go.jpg');
     background-size: cover;
     background-position: center;
